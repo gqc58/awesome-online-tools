@@ -69,6 +69,7 @@
 - [BulkPicTools](https://bulkpictools.com/) - 纯浏览器端的批量图片处理工具，支持压缩、格式转换、裁剪等，无上传保护隐私。
 - [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. Client-side via WebAssembly; files never leave the browser.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based web utilities — domain name generator, OG image generator, AI background remover, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator, and AI robots.txt generator. No signup, all client-side, open source.
+- [Vaultool](https://vaultool.com) - 50+ free online tools (PDF, image, dev tools), all client-side processing, privacy-first
 
 ## Develop
 
